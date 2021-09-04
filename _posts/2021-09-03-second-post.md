@@ -1,11 +1,11 @@
 ---
-title:  "모어쌍 뜻"
-excerpt: "모어쌍의 뜻이 뭘까?"
+title:  "인생 뜻"
+excerpt: "인생의 뜻이 뭘까?"
 
 categories:
-  - 침착맨
+  - Life
 tags:
-  - 침착맨
+  - Life
 last_modified_at: 2021-09-04T08:06:00-05:00
 ---
 
