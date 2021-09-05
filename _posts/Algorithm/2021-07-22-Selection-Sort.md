@@ -1,5 +1,5 @@
 ---
-title:  "Selection Sort (선택 정렬)"
+title:  "Selection Sort (선택 정렬) C++"
 
 categories:
   - Algorithm
