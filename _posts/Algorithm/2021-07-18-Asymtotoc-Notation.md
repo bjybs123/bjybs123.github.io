@@ -35,12 +35,14 @@ $n0$보다 큰 $n$에 대해서 $0 <= f(n) <= cg(n)$을 만족시키는 상수 $
 </p>
 해당 그래프에서 y축을 실행 횟수라고 생각하면 어떤 알고리즘의 시간 혹은 공간 복잡도는 $f(n)$이다. 그의 상한선인 $cg(n)$을 은 해당 알고리즘에서 최악의 경우 이다. 그래프를 보면 $cg(n)$이 y축 기준으로 위에 있기때문에 최악의 경우인것을 확인할 수 있다.
 
+<br/>
 **Asymptotic Complexity**
 <p align="center">
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcg3sZT%2Fbtq9Kvx8dQN%2FMycKQ2eisIHlVNuY8xKbhK%2Fimg.jpg">
 </p>
+
 알고리즘의 시간 혹은 공간복잡도를 얘기할때 가장 많이 사용되는 표기법은 사진과같다. 해당 그래프들은 고교 수학시간에 배운 함수 그래프를 생각하면 쉽다.
-<br/>
+
 <br/>
 Ref.
 
