@@ -1,6 +1,6 @@
 ---
 title:  "Shell Sort (쉘 정렬) C++"
-excerpt: #""
+excerpt: "화석 Shell Sort에 대해서 알아보자"
 categories:
   - Algorithm
 tags:
