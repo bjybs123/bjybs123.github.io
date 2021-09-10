@@ -1,6 +1,6 @@
 ---
 title:  "Shell Sort (쉘 정렬) C++"
-
+excerpt: #""
 categories:
   - Algorithm
 tags:
