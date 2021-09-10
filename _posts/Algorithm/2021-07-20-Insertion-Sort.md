@@ -1,5 +1,5 @@
 ---
-title:  "Insertion Sort (삽입 정렬) C++"d
+title:  "Insertion Sort (삽입 정렬) C++"
 
 categories:
   - Algorithm
