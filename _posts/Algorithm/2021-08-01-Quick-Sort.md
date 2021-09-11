@@ -1,6 +1,6 @@
 ---
 title:  "Quick Sort (퀵 정렬) C++"
-
+excerpt: "퀵 정렬에 대해서 알아보자."
 categories:
   - Algorithm
 tags:
