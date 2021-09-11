@@ -1,6 +1,6 @@
 ---
 title:  "Insertion Sort (삽입 정렬) C++"
-
+excerpt: "삽입 정렬에 대해서 알아보자."
 categories:
   - Algorithm
 tags:
