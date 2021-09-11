@@ -1,6 +1,6 @@
 ---
 title:  "Selection Sort (선택 정렬) C++"
-
+excerpt: "선택 정렬에 대해서 알아보자."
 categories:
   - Algorithm
 tags:
