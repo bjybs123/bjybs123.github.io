@@ -1,6 +1,6 @@
 ---
 title:  "Bubble Sort (버블 정렬) C++"
-
+excerpt: "버블 정렬에 대해서 알아보자."
 categories:
   - Algorithm
 tags:
