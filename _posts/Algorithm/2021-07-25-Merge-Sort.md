@@ -1,6 +1,6 @@
 ---
 title:  "Merge Sort (합병 정렬) C++"
-excerpt: "합병/병합ㄴ 정렬에 대해서 알아보자."
+excerpt: "합병/병합 정렬에 대해서 알아보자."
 categories:
   - Algorithm
 tags:
